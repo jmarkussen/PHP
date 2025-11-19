@@ -7,14 +7,13 @@
 <body>
 
     <?php
-        // Eksempelmatrise
+        // Matrise
         $matrise = [5, 3, 0, 3, 0, 5, 9, 7, 9];
 
-        // Tell hvor mange ganger hver verdi forekommer
+        // Teller hvor mange ganger hver verdi er tilstede
         $forekomster = array_count_values($matrise);
 
-        // Finn verdien som kun forekommer én gang
-        $unik_verdi = null;
+        // Finn verdien som kun er en gang
         foreach ($forekomster as $verdi => $antall) {
             if ($antall === 1) {
                 $unik_verdi = $verdi;
