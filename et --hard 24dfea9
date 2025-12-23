@@ -1,0 +1,51 @@
+[33mcommit 7e56eb951934e34b5c2d3ce190010b7cd33aa33f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jello-fish <joel.markussen@hotmail.com>
+Date:   Wed Nov 19 23:41:36 2025 +0100
+
+    Fjerner stor fil
+
+[33mcommit 6a846fe6e751b76cf1ba7dc47223e31edf1a2a5b[m
+Author: Jello-fish <joel.markussen@hotmail.com>
+Date:   Wed Nov 19 23:40:20 2025 +0100
+
+    laster ikke opp stor mp4
+
+[33mcommit d837b0a32732133711670a47c3afeb6d8c42e5bd[m
+Merge: 24dfea9 820dd29
+Author: Jello-fish <joel.markussen@hotmail.com>
+Date:   Wed Nov 19 23:36:35 2025 +0100
+
+    laster opp nyeste oppgaver
+
+[33mcommit 24dfea973c8929ed4f68c25940923c7d6a46a24b[m
+Author: Jello-fish <joel.markussen@hotmail.com>
+Date:   Wed Nov 19 23:26:41 2025 +0100
+
+    Laster opp nye endringer
+
+[33mcommit 820dd298e8ebb52417e36634d84503db2cef7c08[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Joelm <144039066+jmarkussen@users.noreply.github.com>
+Date:   Tue Nov 18 13:09:43 2025 +0100
+
+    Revise README for PHP project details
+    
+    Oppdatert READme fil
+
+[33mcommit eecb672a33eafaa7055350fbba7a3c87630aa636[m
+Merge: ab02241 e5ef26a
+Author: Jello-fish <joel.markussen@hotmail.com>
+Date:   Tue Nov 18 13:07:09 2025 +0100
+
+    fullfør opplasting
+
+[33mcommit ab0224106619685aba815c6994c8e5a4f51117bb[m
+Author: Jello-fish <joel.markussen@hotmail.com>
+Date:   Tue Nov 18 13:02:43 2025 +0100
+
+    Initial commit
+
+[33mcommit e5ef26a568f6c85930322e978d961efd979a6a47[m
+Author: Joelm <144039066+jmarkussen@users.noreply.github.com>
+Date:   Tue Nov 18 13:00:02 2025 +0100
+
+    Initial commit

@@ -1,0 +1,13 @@
+{
+    "name": "joelm/modul9",
+    "description": "modul 9",
+    "autoload": {
+        "psr-4": {
+            "Joelm\\Modul9\\": "src/"
+        }
+    },
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^2.6"
+    }
+}
